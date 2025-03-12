@@ -21,7 +21,7 @@ PORT=3000
 ## Como Rodar o Projeto
 1. Clone o Repositório
 ```sh
-git clone https://github.com/LoboPedro/jira-crawler.git
+git clone https://github.com/LoboPedro/jira-crawler-api.git
 cd jira-crawler
 ```
 
