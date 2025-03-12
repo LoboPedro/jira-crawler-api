@@ -22,7 +22,7 @@ PORT=3000
 1. Clone o Repositório
 ```sh
 git clone https://github.com/LoboPedro/jira-crawler-api.git
-cd jira-crawler
+cd jira-crawler-api
 ```
 
 2. Instale as Dependências
