@@ -1,0 +1,16 @@
+{
+  "name": "jiracrawler-crawler-api",
+  "version": "1.0.0",
+  "main": "jira-crawler-api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pedro Lobo",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongodb": "^6.13.0"
+  },
+  "description": "API para inserção de JQL em database Mongodb"
+}
